@@ -1,5 +1,8 @@
 {
    "providers":[
+      {"type": "bitmap", "file": "server_icons/rank_icon_1.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
+      {"type": "bitmap", "file": "server_icons/rank_icon_2.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
+      {"type": "bitmap", "file": "server_icons/rank_icon_3.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
       {
          "type": "ttf",
