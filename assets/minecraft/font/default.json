@@ -1,16 +1,10 @@
 {
    "providers":[
-      {"type": "bitmap", "file": "server_icons/rank_icon_1.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
-      {"type": "bitmap", "file": "server_icons/rank_icon_2.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
-      {"type": "bitmap", "file": "server_icons/rank_icon_3.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
+      {"type": "bitmap", "file": "server_icons/plot_rank.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
+      {"type": "bitmap", "file": "server_icons/generic_project.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
+      {"type": "bitmap", "file": "server_icons/patreon.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
+
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
-      {
-         "type": "ttf",
-         "file": "minecraft:orchidea.ttf",
-         "shift": [0.0, 1.55],
-         "size": 8.25,
-         "oversample": 4.0,
-         "skip": ""
-      }
+      {"type": "ttf", "file": "minecraft:orchidea.ttf", "shift": [0.0, 1.55], "size": 8.25, "oversample": 4.0, "skip": ""}
 	]
 }
