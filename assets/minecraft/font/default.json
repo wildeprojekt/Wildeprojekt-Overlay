@@ -1,0 +1,13 @@
+{
+   "providers":[
+      {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
+      {
+         "type": "ttf",
+         "file": "minecraft:orchidea.ttf",
+         "shift": [0.0, 1.55],
+         "size": 8.25,
+         "oversample": 4.0,
+         "skip": ""
+      }
+	]
+}
