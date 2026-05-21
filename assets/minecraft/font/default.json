@@ -1,8 +1,24 @@
 {
    "providers":[
-      {"type": "bitmap", "file": "server_icons/plot_rank.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
-      {"type": "bitmap", "file": "server_icons/generic_project.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
-      {"type": "bitmap", "file": "server_icons/patreon.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
+      {"type": "bitmap", "file": "server_icons/emoji_skull.png", "ascent": 7, "height": 8, "chars": ["\ue333"]},
+
+      {"type": "bitmap", "file": "server_icons/member_hfranz.png", "ascent": 7, "height": 8, "chars": ["\ue334"]},
+      {"type": "bitmap", "file": "server_icons/member_xone.png", "ascent": 7, "height": 8, "chars": ["\ue335"]},            
+      {"type": "bitmap", "file": "server_icons/member_nucc.png", "ascent": 7, "height": 8, "chars": ["\ue336"]},
+      {"type": "bitmap", "file": "server_icons/member_grammel.png", "ascent": 7, "height": 8, "chars": ["\ue337"]},
+
+      {"type": "bitmap", "file": "server_icons/rank_staff.png", "ascent": 7, "height": 8, "chars": ["\ue593"]},
+      {"type": "bitmap", "file": "server_icons/rank_plot.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
+      {"type": "bitmap", "file": "server_icons/rank_patreon.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
+      
+      {"type": "bitmap", "file": "server_icons/project_generic.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
+      {"type": "bitmap", "file": "server_icons/project_cakov.png", "ascent": 7, "height": 8, "chars": ["\ue597"]},
+      {"type": "bitmap", "file": "server_icons/project_deithwen.png", "ascent": 7, "height": 8, "chars": ["\ue598"]},
+      {"type": "bitmap", "file": "server_icons/project_ritchfork.png", "ascent": 7, "height": 8, "chars": ["\ue599"]},
+
+      {"type": "bitmap", "file": "server_icons/logo_conquest.png", "ascent": 7, "height": 8, "chars": ["\ue689"]},
+      {"type": "bitmap", "file": "server_icons/logo_wildeprojekt.png", "ascent": 7, "height": 8, "chars": ["\ue690"]},
+      {"type": "bitmap", "file": "server_icons/logo_ardacraft.png", "ascent": 7, "height": 8, "chars": ["\ue691"]},
 
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
       {"type": "ttf", "file": "minecraft:orchidea.ttf", "shift": [0.0, 1.55], "size": 8.25, "oversample": 4.0, "skip": ""}
