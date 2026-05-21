@@ -20,6 +20,14 @@
       {"type": "bitmap", "file": "server_icons/logo_wildeprojekt.png", "ascent": 7, "height": 8, "chars": ["\ue690"]},
       {"type": "bitmap", "file": "server_icons/logo_ardacraft.png", "ascent": 7, "height": 8, "chars": ["\ue691"]},
 
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_0.png", "ascent": 9, "height": 24, "chars": ["\ue555"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_1.png", "ascent": 9, "height": 24, "chars": ["\ue556"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_2.png", "ascent": 9, "height": 24, "chars": ["\ue557"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_3.png", "ascent": 9, "height": 24, "chars": ["\ue558"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_4.png", "ascent": 9, "height": 24, "chars": ["\ue559"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_5.png", "ascent": 9, "height": 24, "chars": ["\ue560"]},
+      {"type": "bitmap", "file": "server_icons/wildeprojekt_logo/wildeprojekt_large_6.png", "ascent": 9, "height": 24, "chars": ["\ue561"]},
+
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
       {"type": "ttf", "file": "minecraft:orchidea.ttf", "shift": [0.0, 1.55], "size": 8.25, "oversample": 4.0, "skip": ""}
 	]
