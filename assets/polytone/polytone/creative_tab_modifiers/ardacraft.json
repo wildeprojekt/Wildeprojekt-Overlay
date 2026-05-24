@@ -1,0 +1,10 @@
+{
+    "targets": [
+        "minecraft:building_blocks"
+    ],
+    "additions": [
+        {
+            "items": []
+        }
+    ]
+}

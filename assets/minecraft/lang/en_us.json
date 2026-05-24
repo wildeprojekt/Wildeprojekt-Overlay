@@ -1,0 +1,13 @@
+{
+  "itemGroup.buildingBlocks": "Utility",
+  "itemGroup.coloredBlocks": "Cobble & Brick",
+  "itemGroup.natural": "Advanced Masonry",
+  "itemGroup.functional": "Columns",
+  "itemGroup.redstone": "Mosaics, Tiles & Floors",
+  "itemGroup.tools": "Plaster, Stucco & Paint",
+  "itemGroup.combat": "Half Timbered Walls",
+  "itemGroup.foodAndDrink": "Roofing",
+  "itemGroup.ingredients": "Planks & Beams",
+  "itemGroup.spawnEggs": "Advanced Carpentry",
+  "itemGroup.op": "Empty"
+}

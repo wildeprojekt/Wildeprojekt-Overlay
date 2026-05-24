@@ -1,0 +1,49 @@
+{
+    "targets": [
+        "minecraft:building_blocks"
+    ],
+    "removals": [
+        {
+            "type": "id_match",
+            "path": ".*"
+        }
+    ],
+    "additions": [
+        {
+            "items": [
+                "minecraft:wooden_axe",
+                "minecraft:debug_stick",
+                "paintbrush:paintbrush",
+                "paintbrush:paint_knife",
+                "architects:mallet",
+                "conquest:mallet_item",
+                "minecraft:light",
+                "minecraft:water_bucket",
+                "minecraft:barrier",
+                "conquest:invisible_block_stairs",
+                "conquest:invisible_block_vertical_slab",
+                "conquest:invisible_block_slab",
+                "conquest:invisible_block_pane",
+                "conquest:white_screen",
+                "conquest:light_gray_screen",
+                "conquest:red_screen",
+                "conquest:green_screen",
+                "conquest:blue_screen",
+                "conquest:planning_sign",
+                "conquest:comment_planning_sign",
+                "conquest:name_planning_sign",
+                "conquest:waiting_approval_planning_sign",
+                "conquest:approved_planning_sign",
+                "conquest:not_approved_planning_sign",
+                "conquest:other_planning_sign",
+                "conquest:special_planning_sign",
+                "conquest:lower_class_planning_sign",
+                "conquest:middle_class_planning_sign",
+                "conquest:upper_class_planning_sign"
+            ]
+        }
+    ],
+    "icon": {
+        "id": "paintbrush:paintbrush"
+    }
+}

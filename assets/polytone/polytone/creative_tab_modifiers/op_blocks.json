@@ -1,0 +1,19 @@
+{
+    "targets": [
+        "minecraft:op_blocks"
+    ],
+    "removals": [
+        {
+            "type": "id_match",
+            "path": ".*"
+        }
+    ],
+    "additions": [
+        {
+            "items": []
+        }
+    ],
+    "icon": {
+        "id": "minecraft:barrier"
+    }
+}
