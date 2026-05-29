@@ -1,7 +1,8 @@
 {
    "providers":[
-      {"type": "bitmap", "file": "server_icons/emoji/rain.png", "ascent": 7, "height": 8, "chars": ["\ue332"]},
-      {"type": "bitmap", "file": "server_icons/emoji/skull.png", "ascent": 7, "height": 8, "chars": ["\ue333"]},
+      {"type": "bitmap", "file": "server_icons/symbols/discord.png", "ascent": 7, "height": 8, "chars": ["\ue331"]},
+      {"type": "bitmap", "file": "server_icons/symbols/rain.png", "ascent": 7, "height": 8, "chars": ["\ue332"]},
+      {"type": "bitmap", "file": "server_icons/symbols/skull.png", "ascent": 7, "height": 8, "chars": ["\ue333"]},
 
       {"type": "bitmap", "file": "server_icons/members/hfranz.png", "ascent": 7, "height": 8, "chars": ["\ue334"]},
       {"type": "bitmap", "file": "server_icons/members/xone.png", "ascent": 7, "height": 8, "chars": ["\ue335"]},            

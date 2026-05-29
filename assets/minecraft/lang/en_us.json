@@ -9,5 +9,7 @@
   "itemGroup.foodAndDrink": "Roofing",
   "itemGroup.ingredients": "Planks & Beams",
   "itemGroup.spawnEggs": "Advanced Carpentry",
-  "itemGroup.op": "Empty"
+  "itemGroup.op": "Empty",
+  "options.title": "",
+  "options.videoTitle": "Video Settings"
 }
