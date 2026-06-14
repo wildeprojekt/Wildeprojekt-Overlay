@@ -19,7 +19,6 @@
       {"type": "bitmap", "file": "server_icons/members/grammel.png", "ascent": 7, "height": 8, "chars": ["\ue337"]},
       {"type": "bitmap", "file": "server_icons/members/budder.png", "ascent": 7, "height": 8, "chars": ["\ue338"]},
 
-      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_icon.png", "ascent": 7, "height": 8, "chars": ["\ue593"]},
       {"type": "bitmap", "file": "server_icons/ranks/plot.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
       {"type": "bitmap", "file": "server_icons/ranks/patron.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
       
@@ -32,7 +31,6 @@
       {"type": "bitmap", "file": "server_icons/logos/ritchfork.png", "ascent": 7, "height": 8, "chars": ["\ue599"]},
       {"type": "bitmap", "file": "server_icons/logos/ardacraft.png", "ascent": 7, "height": 8, "chars": ["\ue691"]},
 
-      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_w.png", "ascent": 7, "height": 8, "chars": ["\ue554"]},
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_0.png", "ascent": 9, "height": 24, "chars": ["\ue555"]},
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_1.png", "ascent": 9, "height": 24, "chars": ["\ue556"]},
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_2.png", "ascent": 9, "height": 24, "chars": ["\ue557"]},
@@ -40,6 +38,18 @@
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_4.png", "ascent": 9, "height": 24, "chars": ["\ue559"]},
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_5.png", "ascent": 9, "height": 24, "chars": ["\ue560"]},
       {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_large_6.png", "ascent": 9, "height": 24, "chars": ["\ue561"]},
+
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_w.png", "ascent": 7, "height": 8, "chars": ["\ue700"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_i.png", "ascent": 7, "height": 8, "chars": ["\ue701"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_l.png", "ascent": 7, "height": 8, "chars": ["\ue702"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_d.png", "ascent": 7, "height": 8, "chars": ["\ue703"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_e.png", "ascent": 7, "height": 8, "chars": ["\ue704"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_p.png", "ascent": 7, "height": 8, "chars": ["\ue705"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_r.png", "ascent": 7, "height": 8, "chars": ["\ue706"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_o.png", "ascent": 7, "height": 8, "chars": ["\ue707"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_j.png", "ascent": 7, "height": 8, "chars": ["\ue708"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_k.png", "ascent": 7, "height": 8, "chars": ["\ue709"]},
+      {"type": "bitmap", "file": "server_icons/logos/wildeprojekt/wildeprojekt_letter_t.png", "ascent": 7, "height": 8, "chars": ["\ue710"]},
 
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
       {"type": "ttf", "file": "minecraft:orchidea.ttf", "shift": [0.0, 1.55], "size": 8.25, "oversample": 4.0, "skip": ""}
