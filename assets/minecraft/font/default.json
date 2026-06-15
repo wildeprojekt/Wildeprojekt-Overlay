@@ -1,5 +1,6 @@
 {
    "providers":[
+      {"type": "bitmap", "file": "server_icons/symbols/layers.png", "ascent": 7, "height": 8, "chars": ["\ue322"]},
       {"type": "bitmap", "file": "server_icons/symbols/heart.png", "ascent": 7, "height": 8, "chars": ["\ue323"]},
       {"type": "bitmap", "file": "server_icons/symbols/christmas_heart.png", "ascent": 7, "height": 8, "chars": ["\ue324"]},
       {"type": "bitmap", "file": "server_icons/symbols/sign_aard.png", "ascent": 7, "height": 8, "chars": ["\ue325"]},
