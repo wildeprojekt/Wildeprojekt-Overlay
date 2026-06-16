@@ -20,7 +20,10 @@
       {"type": "bitmap", "file": "server_icons/members/grammel.png", "ascent": 7, "height": 8, "chars": ["\ue337"]},
       {"type": "bitmap", "file": "server_icons/members/budder.png", "ascent": 7, "height": 8, "chars": ["\ue338"]},
 
-      {"type": "bitmap", "file": "server_icons/ranks/plot.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
+      {"type": "bitmap", "file": "server_icons/ranks/plot_1.png", "ascent": 7, "height": 8, "chars": ["\ue591"]},
+      {"type": "bitmap", "file": "server_icons/ranks/plot_2.png", "ascent": 7, "height": 8, "chars": ["\ue592"]},
+      {"type": "bitmap", "file": "server_icons/ranks/plot_3.png", "ascent": 7, "height": 8, "chars": ["\ue593"]},
+      {"type": "bitmap", "file": "server_icons/ranks/plot_4.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
       {"type": "bitmap", "file": "server_icons/ranks/patron.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
       
       {"type": "bitmap", "file": "server_icons/projects/generic.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
