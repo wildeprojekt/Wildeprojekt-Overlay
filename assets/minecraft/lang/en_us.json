@@ -28,5 +28,8 @@
   "disconnect.loginFailedInfo": "Failed to join wildeprojekt: %s",
   "disconnect.loginFailedInfo.invalidSession": "Try using the Re-login button above or restarting your game and launcher",
   "disconnect.loginFailedInfo.serversUnavailable": "The Mojang authentication servers are currently not reachable. Please try again.",
-  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)"
+  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
+  "item_obliterator.disabled_item": "This item is disabled",
+  "item_obliterator.disabled_interaction": "This item's interactions are disabled.",
+  "item_obliterator.disabled_attacks": "This item's attacks are disabled."
 }
