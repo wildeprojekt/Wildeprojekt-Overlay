@@ -25,8 +25,8 @@
       {"type": "bitmap", "file": "server_icons/ranks/plot_3.png", "ascent": 7, "height": 8, "chars": ["\ue593"]},
       {"type": "bitmap", "file": "server_icons/ranks/plot_4.png", "ascent": 7, "height": 8, "chars": ["\ue594"]},
       {"type": "bitmap", "file": "server_icons/ranks/patron.png", "ascent": 7, "height": 8, "chars": ["\ue595"]},
+      {"type": "bitmap", "file": "server_icons/ranks/patron2.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
       
-      {"type": "bitmap", "file": "server_icons/projects/generic.png", "ascent": 7, "height": 8, "chars": ["\ue596"]},
       {"type": "bitmap", "file": "server_icons/projects/cakov.png", "ascent": 7, "height": 8, "chars": ["\ue597"]},
       {"type": "bitmap", "file": "server_icons/projects/deithwen.png", "ascent": 7, "height": 8, "chars": ["\ue598"]},
       
