@@ -30,9 +30,7 @@
   "disconnect.loginFailedInfo.serversUnavailable": "The Mojang authentication servers are currently not reachable. Please try again.",
   "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
 
-  "multiplayer.player.joined": "§r§f%s joined",
-  "multiplayer.player.joined.renamed": "§r§f%s (formerly %s) joined",
-  "multiplayer.player.left": "§r§f%s left",
+  "block.minecraft.smooth_stone_slab": "Plot Block",
 
   "debug.prefix": "§r§f\ue690",
   "debug.advanced_tooltips.help": "§dF3 + H = Advanced tooltips",
