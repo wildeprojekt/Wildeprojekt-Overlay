@@ -1,2 +1,2 @@
-# Server-Overlay
-General resource pack for PSP
+## Wildeprojekt Server Assets Resource Pack
+Contains custom icons, various language file tweaks, plot border and road textures, and various other tweaks to make Wildeprojekt look as intended. It is highly recommend you keep this resource enabled at all times.
