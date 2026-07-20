@@ -1,4 +1,8 @@
 {
+  "block.minecraft.smooth_stone_slab": "Plot Block",
+  
+  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
+
   "itemGroup.buildingBlocks": "Utility",
   "itemGroup.coloredBlocks": "Cobble & Brick",
   "itemGroup.natural": "Advanced Masonry",
@@ -13,9 +17,6 @@
   "itemGroup.create.base": "Metal",
   "options.title": "",
   "options.videoTitle": "Video Settings",
-  "menu.returnToMenu": "Main Menu",
-  "menu.disconnect": "Main Menu",
-  "menu.returnToGame": "Resume Game",
   "options.graphics": "§4Do not change",
   "options.graphics.fabulous": "§4Wrong!",
   "options.graphics.fancy": "Default",
@@ -23,14 +24,20 @@
   "sodium.options.graphics_quality.tooltip": "Altering this will cause things to break, especially leaves.",
   "sodium.options.leaves_quality.name": "§4Do not change",
   "sodium.options.leaves_quality.tooltip": "Altering this will cause things to break, especially leaves.",
+  "menu.returnToMenu": "Main Menu",
+  "menu.disconnect": "Main Menu",
+  "menu.returnToGame": "Resume Game",
   "connect.failed": "Failed to connect Wildeprojekt",
   "disconnect.loginFailed": "Failed to join Wildeprojekt",
   "disconnect.loginFailedInfo": "Failed to join wildeprojekt: %s",
   "disconnect.loginFailedInfo.invalidSession": "Try using the Re-login button above or restarting your game and launcher",
   "disconnect.loginFailedInfo.serversUnavailable": "The Mojang authentication servers are currently not reachable. Please try again.",
-  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
-
-  "block.minecraft.smooth_stone_slab": "Plot Block",
+  
+  "commands.teleport.invalidPosition": "\ue690 §dInvalid position for teleport",
+  "commands.teleport.success.entity.multiple": "\ue690 §dTeleported §d%s e§dntities to §d%s",
+  "commands.teleport.success.entity.single": "\ue690 §dTeleported §d%s §dto §d%s",
+  "commands.teleport.success.location.multiple": "\ue690 §dTeleported §d%s §dentities to §d%s, §d%s, §d%s",
+  "commands.teleport.success.location.single": "\ue690 §dTeleported §d%s §dto §d%s§d, §d%s§d, §d%s",
 
   "debug.prefix": "§r§f\ue690",
   "debug.advanced_tooltips.help": "§dF3 + H = Advanced tooltips",
