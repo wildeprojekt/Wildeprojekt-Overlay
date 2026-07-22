@@ -83,9 +83,9 @@
 
   "metatweaks.command.reload.success": "\ue690 §dSuccessfully reloaded block-blacklist.json",
   "metatweaks.command.reload.failed": "\ue690 §cFailed to reload block-blacklist.json",
-  "metatweaks.command.waterspread.enabled": "\ue690 §dWater spread enabled inside selection.",
-  "metatweaks.command.waterspread.disabled": "\ue690 §cWater spread disabled",
-  "metatweaks.command.waterspread.no_selection": "§8(§4§lFAWE§r§8) §cMake a region selection first.",
   "metatweaks.command.teleport.no_selectors": "\ue690 §cSelectors (@) are not allowed.",
-  "metatweaks.command.teleport.self_only": "\ue690 §cYou may only teleport yourself."
+  "metatweaks.command.teleport.self_only": "\ue690 §cYou may only teleport yourself.",
+  "metatweaks.command.waterspread.enabled": "§8(§4§lFAWE§r§8) §7Water spread enabled inside selection.",
+  "metatweaks.command.waterspread.disabled": "§8(§4§lFAWE§r§8) §7Water spread disabled",
+  "metatweaks.command.waterspread.no_selection": "§8(§4§lFAWE§r§8) §cMake a region selection first."
 }
