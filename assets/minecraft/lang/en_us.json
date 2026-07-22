@@ -33,12 +33,6 @@
   "disconnect.loginFailedInfo.invalidSession": "Try using the Re-login button above or restarting your game and launcher",
   "disconnect.loginFailedInfo.serversUnavailable": "The Mojang authentication servers are currently not reachable. Please try again.",
   
-  "commands.teleport.invalidPosition": "\ue690 §dInvalid position for teleport",
-  "commands.teleport.success.entity.multiple": "\ue690 §dTeleported §d%s e§dntities to §d%s",
-  "commands.teleport.success.entity.single": "\ue690 §dTeleported §d%s §dto §d%s",
-  "commands.teleport.success.location.multiple": "\ue690 §dTeleported §d%s §dentities to §d%s, §d%s, §d%s",
-  "commands.teleport.success.location.single": "\ue690 §dTeleported §d%s §dto §d%s§d, §d%s§d, §d%s",
-
   "debug.prefix": "§r§f\ue690",
   "debug.advanced_tooltips.help": "§dF3 + H = Advanced tooltips",
   "debug.advanced_tooltips.off": "§dAdvanced tooltips: hidden",
@@ -79,5 +73,19 @@
   "debug.reload_resourcepacks.message": "§dReloaded resource packs",
   "debug.show_hitboxes.help": "§dF3 + B = Show hitboxes",
   "debug.show_hitboxes.off": "§dHitboxes: hidden",
-  "debug.show_hitboxes.on": "§dHitboxes: shown"
+  "debug.show_hitboxes.on": "§dHitboxes: shown",
+
+  "commands.teleport.invalidPosition": "\ue690 §dInvalid position for teleport",
+  "commands.teleport.success.entity.multiple": "\ue690 §dTeleported §d%s e§dntities to §d%s",
+  "commands.teleport.success.entity.single": "\ue690 §dTeleported §d%s §dto §d%s",
+  "commands.teleport.success.location.multiple": "\ue690 §dTeleported §d%s §dentities to §d%s, §d%s, §d%s",
+  "commands.teleport.success.location.single": "\ue690 §dTeleported §d%s §dto §d%s§d, §d%s§d, §d%s",
+
+  "metatweaks.command.reload.success": "\ue690 §dSuccessfully reloaded block-blacklist.json",
+  "metatweaks.command.reload.failed": "\ue690 §cFailed to reload block-blacklist.json",
+  "metatweaks.command.waterspread.enabled": "\ue690 §dWater spread enabled inside selection.",
+  "metatweaks.command.waterspread.disabled": "\ue690 §cWater spread disabled",
+  "metatweaks.command.waterspread.no_selection": "§8(§4§lFAWE§r§8) §cMake a region selection first.",
+  "metatweaks.command.teleport.no_selectors": "\ue690 §cSelectors (@) are not allowed.",
+  "metatweaks.command.teleport.self_only": "\ue690 §cYou may only teleport yourself."
 }
