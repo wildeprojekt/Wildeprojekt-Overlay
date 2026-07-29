@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:acacia_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_acacia_beam",
+    "architects:horizontal_half_diagonal_acacia_beam",
+    "conquest:acacia_wood_beam_beam_board",
+    "conquest:acacia_wood_beam_vertical",
+    "conquest:acacia_wood_beam_lintel",
+    "architects:diagonal_acacia_lintel",
+    "architects:half_diagonal_acacia_lintel",
+    "conquest:acacia_wood_beam_posts",
+    "conquest:acacia_wood_beam_door_frame_lintel",
+    "conquest:acacia_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_acacia_beam",
+    "architects:half_diagonal_acacia_beam",
+    "architects:corner_half_diagonal_acacia_beam",
+    "architects:diagonal_acacia_beam",
+    "architects:steeper_diagonal_acacia_beam",
+    "architects:thin_stripped_acacia_log",
+    "architects:half_diagonal_stripped_acacia_log",
+    "architects:acacia_support_beams",
+    "architects:vertical_acacia_support_beams",
+    "architects:diagonal_acacia_beam_brace"
+  ]
+}

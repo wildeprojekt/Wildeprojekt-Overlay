@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:birch_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_birch_beam",
+    "architects:horizontal_half_diagonal_birch_beam",
+    "conquest:birch_wood_beam_beam_board",
+    "conquest:birch_wood_beam_vertical",
+    "conquest:birch_wood_beam_lintel",
+    "architects:diagonal_birch_lintel",
+    "architects:half_diagonal_birch_lintel",
+    "conquest:birch_wood_beam_posts",
+    "conquest:birch_wood_beam_door_frame_lintel",
+    "conquest:birch_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_birch_beam",
+    "architects:half_diagonal_birch_beam",
+    "architects:corner_half_diagonal_birch_beam",
+    "architects:diagonal_birch_beam",
+    "architects:steeper_diagonal_birch_beam",
+    "architects:thin_stripped_birch_log",
+    "architects:half_diagonal_stripped_birch_log",
+    "architects:birch_support_beams",
+    "architects:vertical_birch_support_beams",
+    "architects:diagonal_birch_beam_brace"
+  ]
+}

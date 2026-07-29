@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:dark_oak_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_dark_oak_beam",
+    "architects:horizontal_half_diagonal_dark_oak_beam",
+    "conquest:dark_oak_wood_beam_beam_board",
+    "conquest:dark_oak_wood_beam_vertical",
+    "conquest:dark_oak_wood_beam_lintel",
+    "architects:diagonal_dark_oak_lintel",
+    "architects:half_diagonal_dark_oak_lintel",
+    "conquest:dark_oak_wood_beam_posts",
+    "conquest:dark_oak_wood_beam_door_frame_lintel",
+    "conquest:dark_oak_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_dark_oak_beam",
+    "architects:half_diagonal_dark_oak_beam",
+    "architects:corner_half_diagonal_dark_oak_beam",
+    "architects:diagonal_dark_oak_beam",
+    "architects:steeper_diagonal_dark_oak_beam",
+    "architects:thin_stripped_dark_oak_log",
+    "architects:half_diagonal_stripped_dark_oak_log",
+    "architects:dark_oak_support_beams",
+    "architects:vertical_dark_oak_support_beams",
+    "architects:diagonal_dark_oak_beam_brace"
+  ]
+}

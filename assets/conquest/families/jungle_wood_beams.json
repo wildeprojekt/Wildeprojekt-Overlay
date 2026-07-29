@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:jungle_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_jungle_beam",
+    "architects:horizontal_half_diagonal_jungle_beam",
+    "conquest:jungle_wood_beam_beam_board",
+    "conquest:jungle_wood_beam_vertical",
+    "conquest:jungle_wood_beam_lintel",
+    "architects:diagonal_jungle_lintel",
+    "architects:half_diagonal_jungle_lintel",
+    "conquest:jungle_wood_beam_posts",
+    "conquest:jungle_wood_beam_door_frame_lintel",
+    "conquest:jungle_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_jungle_beam",
+    "architects:half_diagonal_jungle_beam",
+    "architects:corner_half_diagonal_jungle_beam",
+    "architects:diagonal_jungle_beam",
+    "architects:steeper_diagonal_jungle_beam",
+    "architects:thin_stripped_jungle_log",
+    "architects:half_diagonal_stripped_jungle_log",
+    "architects:jungle_support_beams",
+    "architects:vertical_jungle_support_beams",
+    "architects:diagonal_jungle_beam_brace"
+  ]
+}

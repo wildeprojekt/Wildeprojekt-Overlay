@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:spruce_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_spruce_beam",
+    "architects:horizontal_half_diagonal_spruce_beam",
+    "conquest:spruce_wood_beam_beam_board",
+    "conquest:spruce_wood_beam_vertical",
+    "conquest:spruce_wood_beam_lintel",
+    "architects:diagonal_spruce_lintel",
+    "architects:half_diagonal_spruce_lintel",
+    "conquest:spruce_wood_beam_posts",
+    "conquest:spruce_wood_beam_door_frame_lintel",
+    "conquest:spruce_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_spruce_beam",
+    "architects:half_diagonal_spruce_beam",
+    "architects:corner_half_diagonal_spruce_beam",
+    "architects:diagonal_spruce_beam",
+    "architects:steeper_diagonal_spruce_beam",
+    "architects:thin_stripped_spruce_log",
+    "architects:half_diagonal_stripped_spruce_log",
+    "architects:spruce_support_beams",
+    "architects:vertical_spruce_support_beams",
+    "architects:diagonal_spruce_beam_brace"
+  ]
+}

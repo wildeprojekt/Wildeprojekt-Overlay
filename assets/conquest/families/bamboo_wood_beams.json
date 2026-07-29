@@ -1,0 +1,25 @@
+{
+  "parent_block": "conquest:bamboo_wood_beam_horizontal",
+  "family_blocks": [
+    "architects:horizontal_diagonal_bamboo_beam",
+    "architects:horizontal_half_diagonal_bamboo_beam",
+    "conquest:bamboo_wood_beam_beam_board",
+    "conquest:bamboo_wood_beam_vertical",
+    "conquest:bamboo_wood_beam_lintel",
+    "architects:diagonal_bamboo_lintel",
+    "architects:half_diagonal_bamboo_lintel",
+    "conquest:bamboo_wood_beam_posts",
+    "conquest:bamboo_wood_beam_door_frame_lintel",
+    "conquest:bamboo_wood_beam_door_frame_posts",
+    "architects:shallow_diagonal_bamboo_beam",
+    "architects:half_diagonal_bamboo_beam",
+    "architects:corner_half_diagonal_bamboo_beam",
+    "architects:diagonal_bamboo_beam",
+    "architects:steeper_diagonal_bamboo_beam",
+    "architects:thin_stripped_bamboo_log",
+    "architects:half_diagonal_stripped_bamboo_log",
+    "architects:bamboo_support_beams",
+    "architects:vertical_bamboo_support_beams",
+    "architects:diagonal_bamboo_beam_brace"
+  ]
+}
