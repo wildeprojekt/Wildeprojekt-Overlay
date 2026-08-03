@@ -1,0 +1,44 @@
+name: Publish server resource pack
+on:
+  workflow_dispatch:
+jobs:
+  compile-mrpack:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v6
+    - name: Compile resource pack
+      run: |
+        zip -r repo.zip .
+    - name: Create tag
+      id: create_tag
+      run: |
+        export TIME=$(date +%Y-%m-%d)
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git tag -a $TIME -m "Compile resource pack"
+        git push origin $TIME
+        echo "::set-output name=tag_name::$TIME"
+
+    - name: Publish server resource pack
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.create_tag.outputs.tag_name }}
+        release_name: Wildeprojekt Overlay ${{steps.create_tag.outputs.tag_name }}
+        body: |
+          Publish server resource pack
+        draft: false
+        prerelease: false
+
+    - name: Upload server resource pack
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./repo.zip
+        asset_name: Wildeprojekt_Overlay.zip
+        asset_content_type: application/zip
