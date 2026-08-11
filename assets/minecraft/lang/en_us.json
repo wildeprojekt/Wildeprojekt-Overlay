@@ -87,5 +87,13 @@
   "metatweaks.command.teleport.self_only": "\ue690 §cYou may only teleport yourself.",
   "metatweaks.command.waterspread.enabled": "§8(§4§lFAWE§r§8) §7Water spread enabled inside selection.",
   "metatweaks.command.waterspread.disabled": "§8(§4§lFAWE§r§8) §7Water spread disabled",
-  "metatweaks.command.waterspread.no_selection": "§8(§4§lFAWE§r§8) §cMake a region selection first."
+  "metatweaks.command.waterspread.no_selection": "§8(§4§lFAWE§f§8) §cMake a region selection first.",
+
+  "noportals:disabled.end": "§f\ue690 §cThis action is disabled.",
+  "noportals:disabled.endGateway": "§f\ue690 §cThis action is disabled.",
+  "noportals:disabled.nether": "§f\ue690 §cThis action is disabled.",
+  "noportals:commands.option.reload": "§f\ue690 §dNo Portals options reloaded",
+  "noportals:commands.option.save": "§f\ue690 §dNo Portals options saved",
+  "noportals:commands.option.query": "§f\ue690 §dNo Portals option %s is currently set to: %s",
+  "noportals:commands.option.set": "§f\ue690 §dNo Portals option %s is now set to: %s"
 }
