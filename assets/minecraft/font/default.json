@@ -3,6 +3,7 @@
       {"type": "space", "advances": {" ": 3.0, "\u200a": 4.0, "\u200b": 4.0, "\u200c": 4.0, "\u200d": 4.0}},
       {"type": "ttf", "file": "minecraft:orchidea.ttf", "shift": [0.0, 1.55], "size": 8.25, "oversample": 4.0, "skip": ""},
 
+      {"type": "bitmap", "file": "gui/sprites/server_icons/symbols/afk.png", "ascent": 7, "height": 8, "chars": ["\ue321"]},
       {"type": "bitmap", "file": "gui/sprites/server_icons/symbols/layers.png", "ascent": 7, "height": 8, "chars": ["\ue322"]},
       {"type": "bitmap", "file": "gui/sprites/server_icons/symbols/heart.png", "ascent": 7, "height": 8, "chars": ["\ue323"]},
       {"type": "bitmap", "file": "gui/sprites/server_icons/symbols/christmas_heart.png", "ascent": 7, "height": 8, "chars": ["\ue324"]},
