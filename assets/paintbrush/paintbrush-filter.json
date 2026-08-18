@@ -6,6 +6,7 @@
     "cactus",
     "cones",
     "fern",
+    "hanging",
     "ivy",
     "leaf",
     "leaves",
@@ -15,6 +16,7 @@
     "twigs",
     "upward_tip",
     "vine",
+    "young",
 
     "#minecraft:bee_attractive",
     "#minecraft:bee_growables",
@@ -51,6 +53,7 @@
     "conquest:crimson_roots",
     "conquest:cross_leaved_heath",
     "conquest:cut_wheat_shafts",
+    "conquest:cypress",
     "conquest:dandelion",
     "conquest:dark_autumnal_bracken",
     "conquest:dark_wild_shrub",
