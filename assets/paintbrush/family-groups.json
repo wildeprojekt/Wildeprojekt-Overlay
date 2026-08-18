@@ -6,6 +6,7 @@
         {
           "id": "logs",
           "anchors": [
+            "minecraft:{material}_log",
             "conquest:{material}_log_vertical_slab",
             "conquest:{material}_log_slab",
             "conquest:{material}_log_pillar"
@@ -26,6 +27,7 @@
         {
           "id": "logs",
           "anchors": [
+            "minecraft:stripped_{material}_log",
             "conquest:{material}_wood_beam_vertical_slab",
             "conquest:{material}_wood_beam_slab",
             "conquest:{material}_wood_beam_pillar"
