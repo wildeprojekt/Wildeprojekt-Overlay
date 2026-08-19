@@ -1,7 +1,7 @@
 {
   "block.minecraft.smooth_stone_slab": "Plot Block",
   
-  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use properly)",
+  "item.minecraft.debug_stick": "Debug Stick (type /cycler to use)",
 
   "itemGroup.buildingBlocks": "Utility",
   "itemGroup.coloredBlocks": "Cobble & Brick",
