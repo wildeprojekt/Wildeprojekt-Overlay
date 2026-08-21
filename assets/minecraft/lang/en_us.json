@@ -129,5 +129,14 @@
   "noportals:commands.option.reload": "§f\ue690 §dNo Portals options reloaded",
   "noportals:commands.option.save": "§f\ue690 §dNo Portals options saved",
   "noportals:commands.option.query": "§f\ue690 §dNo Portals option %s is currently set to: %s",
-  "noportals:commands.option.set": "§f\ue690 §dNo Portals option %s is now set to: %s"
+  "noportals:commands.option.set": "§f\ue690 §dNo Portals option %s is now set to: %s",
+
+  "category.ardabrowser": "Schematic Browser",
+  "category.ardabrowser.general": "Schematic Browser",
+  "key.ardabrowser.brushPasteRandom": "Paste Random Selected Schematic",
+  "key.ardabrowser.brushUndo": "Undo Shortcut",
+  "key.ardabrowser.open_browser": "Open Schematic Browser",
+  "screen.ardabrowser.asset_browser": "Schematic Browser",
+  "screen.ardabrowser.search": "Search Schematics...",
+  "screen.ardabrowser.pattern": "Enter Schematic Pattern..."
 }
