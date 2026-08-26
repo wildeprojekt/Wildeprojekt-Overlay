@@ -1,0 +1,6 @@
+{
+  "parent": "paintbrush:item/handheld_forward",
+  "textures": {
+    "layer0": "paintbrush:item/paint_knife"
+  }
+}

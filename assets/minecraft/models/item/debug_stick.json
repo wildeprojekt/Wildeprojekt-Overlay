@@ -1,0 +1,6 @@
+{
+  "parent": "paintbrush:item/handheld",
+  "textures": {
+    "layer0": "paintbrush:item/debug_hammer"
+  }
+}
