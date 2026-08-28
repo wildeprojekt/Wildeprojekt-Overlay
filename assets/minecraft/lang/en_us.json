@@ -159,7 +159,7 @@
   "noportals:commands.option.query": "§f\ue690 §dNo Portals option %s is currently set to: %s",
   "noportals:commands.option.set": "§f\ue690 §dNo Portals option %s is now set to: %s",
 
-  "category.ardabrowser": "Schematic Browser",
+  "category.ardabrowser": "Schematic Browser Shortcuts",
   "category.ardabrowser.general": "Schematic Browser",
   "key.ardabrowser.brushPasteRandom": "Paste Random Selected Schematic",
   "key.ardabrowser.brushUndo": "Undo Shortcut",
