@@ -128,7 +128,13 @@
                 "minecraft:lime_stained_glass_pane",
                 "minecraft:glass_pane",
                 "create:handheld_worldshaper",
-                "create:wand_of_symmetry"
+                "create:wand_of_symmetry",
+                "schemnexus:schematic_nexus",
+                "create:schematicannon",
+                "create:schematic_table",
+                "create:schematic",
+                "create:empty_schematic",
+                "create:schematic_and_quill"
             ],
             "inverse": true
         }

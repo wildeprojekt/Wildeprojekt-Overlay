@@ -42,6 +42,7 @@
   "itemGroup.spawnEggs": "Advanced Carpentry",
   "itemGroup.op": "Empty",
   "itemGroup.create.base": "Metal",
+  "itemGroup.schemnexus.main": "Create",
 
   "block.minecraft.acacia_wood": "Acacia Log Bark",
   "block.minecraft.birch_wood": "Birch Log Bark",
