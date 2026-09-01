@@ -1,5 +1,5 @@
 {
-  "comment": "fully_banned",
+  "comment": "Fully Banned",
   "block.minecraft.dispenser": "\ue319 Dispenser",
   "block.conquest.mesoamerican_dispenser": "\ue319 Mesoamerican Dispenser",
   "block.conquest.sandstone_dispenser": "\ue319 Sandstone Dispenser",
@@ -38,8 +38,9 @@
   "item.minecraft.ender_pearl": "\ue319 Ender Pearl",
   "item.minecraft.snowball": "\ue319 Snowball",
   "item.minecraft.egg": "\ue319 Egg",
+  "item.paintbrush.tomato": "\ue319 Tomato",
 
-  "comment": "\ue318 banned_outside_projects",
+  "comment": "Banned Outside Projects",
   "block.create.acacia_window": "\ue318 Acacia Window",
   "block.create.acacia_window_pane": "\ue318 Acacia Window Pane",
   "block.create.adjustable_chain_gearshift": "\ue318 Adjustable Chain Gearshift",
