@@ -1,0 +1,40 @@
+{
+    "comment": "Normal",
+    "projectmanagement.add.success": "§r§f\ue690 §dAdded %1$s §dto project world: %2$s",
+    "projectmanagement.remove.success": "§r§f\ue690 §dRemoved %1$s §dfrom project world: %2$s",
+    "projectmanagement.notify.added": "§r§f\ue690 §dYou were added to project world %1$s §dby %2$s§d.",
+    "projectmanagement.notify.removed": "§r§f\ue690 §dYou were removed from project world %1$s §dby %2$s§d.",
+    "projectmanagement.notify.owner_set": "§r§f\ue690 §dYou are now the owner of project world %1$s.",
+    "projectmanagement.notify.owner_removed": "§r§f\ue690 §dYou are no longer the owner of project world %1$s§d.",
+    "projectmanagement.list.members": "§r§f\ue690 §dMembers of project world %1$s§d:\n%2$s",
+    "projectmanagement.list.empty": "§r§f\ue690 §d%1$s §dcurrently has no members.",
+    "projectmanagement.list.owner_suffix": "%1$s §7(owner)",
+
+    "comment": "Errors",
+    "projectmanagement.error.no_project": "§r§f\ue690 §cYou don't own a project world.",
+    "projectmanagement.error.several_projects": "§r§f\ue690 §cYou must specify a project world to add a member.",
+    "projectmanagement.error.no_project_member": "You don't belong to a project world.",
+    "projectmanagement.error.several_projects_members": "§r§f\ue690 §cYou must specify a project world to see members.",
+    "projectmanagement.error.not_owner": "§r§f\ue690 §cYou don't own project world: %1$s",
+    "projectmanagement.error.not_member_of": "§r§f\ue690 §cYou are not a member of project world: %1$s",
+    "projectmanagement.error.project_not_found": "§r§f\ue690 §cProject world %1$s §cdoes not exist.",
+    "projectmanagement.error.project_ambiguous": "§r§f\ue690 §c%1$s §cfound multiple matches: §c%2$s§c. use project_name instead.",
+    "projectmanagement.error.unknown_player": "§r§f\ue690 §c%1$s has never been on Wildeprojekt.",
+    "projectmanagement.error.already_member": "§r§f\ue690 §c%1$s is already a member of %2$s",
+    "projectmanagement.error.not_member": "§r§f\ue690 §c%1$s is not a member of %2$s",
+    "projectmanagement.error.owner_remove": "§r§f\ue690 §cCan't remove owner %1$s from %2$s§c.",
+    "projectmanagement.error.operation_failed": "§r§f\ue690 §cError. Please try again or contact staff.",
+    "projectmanagement.error.lookup_failed": "§r§f\ue690 §cError. Please try again or contact staff.",
+
+    "comment": "Console",
+    "projectmanagement.error.project_required": "You must specify a project when running this command from the console.",
+
+    "comment": "Admin",
+    "projectmanagement.owner.set.success": "§r§f\ue690 §dSet %1$s §das owner of project world: %2$s",
+    "projectmanagement.owner.set.member_added": "§r§f\ue690 §dAdded %1$s §dto project world: %2$s",
+    "projectmanagement.ownership.owned_by": "§r§f\ue690 §dProject world %1$s §dis owned by %2$s",
+    "projectmanagement.ownership.not_owned": "§r§f\ue690 §dProject world %1$s §dhas no owner",
+
+    "projectmanagement.error.not_admin": "§r§f\ue690 §cOnly administrators can change project ownership.",
+    "projectmanagement.ownership.none": "§r§f\ue690 §cThere are no project worlds."
+}
