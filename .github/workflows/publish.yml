@@ -2,7 +2,7 @@ name: Publish server resource pack
 on:
   workflow_dispatch:
 jobs:
-  compile-mrpack:
+  compile-resource-pack:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
