@@ -85,6 +85,11 @@
   "screen.ardabrowser.search": "Search Schematics...",
   "screen.ardabrowser.pattern": "Enter Schematic Pattern...",
 
+  "comment": "Resource Pack Key",
+  "category.rpkey": "Resource Pack Key",
+  "key.rpkey": "Resource Pack Selection Screen",
+  "iris.keybind.shaderPackSelection": "Shader Pack Selection Screen",
+
   "comment": "Teleport Messages",
   "commands.teleport.invalidPosition": "\ue690 §dInvalid position for teleport",
   "commands.teleport.success.entity.multiple": "\ue690 §dTeleported §d%s e§dntities to §d%s",
