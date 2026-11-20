@@ -2,6 +2,6 @@
   "parent": "minecraft:block/cube_column",
   "textures": {
     "end": "#side",
-    "side": "minecraft:block/plot_road"
+    "side": "minecraft:block/ice"
   }
 }
